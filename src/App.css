@@ -1,0 +1,24 @@
+#page-body {
+  text-align: center;
+  padding: 100px;
+}
+
+nav {
+  border-bottom: black solid 5px;
+}
+
+ul {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 0 40px 0px 0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
